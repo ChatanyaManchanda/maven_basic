@@ -1,0 +1,3 @@
+name=chatanya
+tech=selenium,testng
+basic maven setup
